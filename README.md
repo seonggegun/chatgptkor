@@ -1,7 +1,7 @@
 # hotelreviewkor
 
 # KOELECTRA를 활용한 호텔리뷰 평점 감성 분석
-<img src =https://github.com/seonggegun/hotelreview/assets/79897862/ff360823-9718-4995-af40-081c6aaf80db.jpg width="50" height="50">
+<img src =https://github.com/seonggegun/hotelreview/assets/79897862/ff360823-9718-4995-af40-081c6aaf80db.jpg width="2000" height="500">
 
 
 # 1. 개요
