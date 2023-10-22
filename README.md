@@ -1,6 +1,8 @@
 # hotelreviewkor
 
 # KOELECTRA를 활용한 호텔리뷰 평점 감성 분석
+![flat-hotel-review-background_23-2148157892](https://github.com/seonggegun/hotelreview/assets/79897862/ff360823-9718-4995-af40-081c6aaf80db)
+
 
 # 1. 개요
 이 프로젝트의 목적은 KOELECTRA를 활용하여 호텔 리뷰의 감성을 분석하는 것입니다.<br> 
