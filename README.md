@@ -15,7 +15,7 @@
 
 ## 1.2 데이터 및 모델 개요
 
-<img src = https://github.com/seonggegun/hotelreview/assets/79897862/a57eaa45-857c-4e4b-90c5-e673e260f138 width="200" height="200">
+<img src = https://github.com/seonggegun/hotelreview/assets/79897862/a57eaa45-857c-4e4b-90c5-e673e260f138>
 
 
 # 2. 데이터
