@@ -14,7 +14,7 @@
 호텔 리뷰는 고객들이 자신의 경험과 의견을 공유하고, 잠재적인 호텔 예약 고객에게 중요한 결정을 돕는 중요한 정보원입니다. 이러한 리뷰는 호텔의 서비스 품질, 시설, 위치, 청결도, 가격, 음식 등 다양한 측면을 다루며, 고객들이 호텔을 선택하거나 피하는 데 큰 영향을 미칩니다. 더 나아가, 호텔 리뷰는 호텔 업계에서 품질 향상을 위한 중요한 피드백 제공자로서의 역할을 합니다.
 
 ## 1.2 데이터 및 모델 개요
-데이터는 [여기](https://github.com/Dabinnny/Review_SentimentAnalysis/tree/main/Data) 에서 크롤링한 호텔리뷰 데이터를 사용하여 한국어 자연어 처리 모델인 KOELECTRA를 활용하여 호텔 리뷰의 긍부정 예측을 하고자 합니다.<br><br>
+데이터는 [이곳](https://github.com/Dabinnny/Review_SentimentAnalysis/tree/main/Data) 에서 크롤링한 호텔리뷰 데이터를 사용하여 한국어 자연어 처리 모델인 KOELECTRA를 활용하여 호텔 리뷰의 긍부정 예측을 하고자 합니다.<br><br>
 
 |Unnamed: 0|hotel|star|reviews|date|real_date|length|
 | --- | --- | --- | --- | --- | --- | --- |
