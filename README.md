@@ -39,7 +39,7 @@
 
 # 2. 데이터
 ## 2.1 데이터 소스
-
+[호텔리뷰데이터](https://github.com/Dabinnny/Review_SentimentAnalysis/tree/main/Data)
 ## 2.2 탐색적 데이터 분석
 
 ## 2.3 데이터 전처리
