@@ -55,7 +55,7 @@
 
 1. 엑셀내에서 쓸모없는 Unnamed, hotel(호텔이름), date(리뷰남긴날짜),real_date(실제 날짜)를 제거
 2. 평점 1&tilde;3점은 부정(1), 4&tilde;5점은 긍정(0)으로 변환
-3. 각 전처리 후, 18글자 이하의 리뷰 갯수 비율 확인하는 함수
+3. 각 전처리 후, 18글자 이하의 리뷰 갯수 비율 확인하는 함수<br>
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/1ffed558-2136-414c-b46d-0a27f2c398e1 width="500" height="100"> <br>
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/c9d559ae-df9e-4ce0-bddc-5eee8615a1fa width="300" height="100"> <br>
 18글자 이하 리뷰갯수: 13466, 비율 :58.749618254002876 임을 알수있다.
