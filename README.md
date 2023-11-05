@@ -1,7 +1,7 @@
 # hotelreviewkor
 
 # KOELECTRA를 활용한 호텔리뷰 평점 감성 분석
-<img src = https://github.com/seonggegun/hotelreview/assets/79897862/3a2b34b4-1ba6-4325-a443-14907cbacdb2 width="2000" height="500">**출처:** [링크]([https://example.com](https://kr.freepik.com/free-vector/flat-hotel-review-background_4433293.htm)) 이미지출처
+<img src = https://github.com/seonggegun/hotelreview/assets/79897862/3a2b34b4-1ba6-4325-a443-14907cbacdb2 width="2000" height="500">**출처:** 이미지출처 bing 이미지 ai
 
 
 # 1. 개요
