@@ -56,8 +56,8 @@
 1. 엑셀내에서 쓸모없는 Unnamed, hotel(호텔이름), date(리뷰남긴날짜),real_date(실제 날짜)를 제거
 2. 평점 1&tilde;3점은 부정(1), 4&tilde;5점은 긍정(0)으로 변환
 
-<img src= https://github.com/seonggegun/hotelreview/assets/79897862/14fd5ea0-ce0c-43cd-abd2-cd84a0f06dec>
-<img src= https://github.com/seonggegun/hotelreview/assets/79897862/30f99945-c79a-40e4-ab4a-3daf393b98a6>
+<img src= https://github.com/seonggegun/hotelreview/assets/79897862/14fd5ea0-ce0c-43cd-abd2-cd84a0f06dec width="300" height="300">>
+<img src= https://github.com/seonggegun/hotelreview/assets/79897862/30f99945-c79a-40e4-ab4a-3daf393b98a6 width="300" height="300">>
 
 
 
