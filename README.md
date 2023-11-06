@@ -66,11 +66,12 @@
 
 1. 엑셀내에서 쓸모없는 Unnamed, hotel(호텔이름), date(리뷰남긴날짜),real_date(실제 날짜)를 제거
 2. 평점 1&tilde;3점은 부정(1), 4&tilde;5점은 긍정(0)으로 변환
-3. 각 전처리 후, 18글자 이하의 리뷰 갯수 비율 확인하는 함수<br>
+3. 긍정데이터 부정데이터 비율맞추기
+4. 각 전처리 후, 18글자 이하의 리뷰 갯수 비율 확인하는 함수<br>
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/1ffed558-2136-414c-b46d-0a27f2c398e1 width="500" height="100"> <br>
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/c9d559ae-df9e-4ce0-bddc-5eee8615a1fa width="300" height="100"> <br>
 18글자 이하 리뷰갯수: 13466개, 비율 :58.749618254002876 임을 알수있다.<br>
-4. 특수 이모지 및 전처리 <br>
+5. 특수 이모지 및 전처리 <br>
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/14fd5ea0-ce0c-43cd-abd2-cd84a0f06dec width="400" height="300">
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/30f99945-c79a-40e4-ab4a-3daf393b98a6 width="400" height="300"> <br>
 좌쪽이 전처리 전 우쪽이 전처리 후 로 이모지가 제거됨을 알수있다.
