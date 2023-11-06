@@ -31,9 +31,9 @@
 <img src = https://github.com/seonggegun/hotelreview/assets/79897862/2ece0c92-ec90-4da3-9117-bd7ec7a21da0> <br>
 <table>
   <tr><th></th><th>별점</th><th>건수</th></tr>
-  <tr><th rowspan='2'>긍정 (21,281)</th><th>5</th><td>17723</td></tr>
-  <tr><th>4</th><td>3558</td></tr>
-  <tr><th rowspan='2'>부정 (1637)</th><th>3</th><td>1045</td></tr>
+  <tr><th rowspan='2'>긍정 (21,281)</th><th>5</th><td>17,723</td></tr>
+  <tr><th>4</th><td>3,558</td></tr>
+  <tr><th rowspan='2'>부정 (1637)</th><th>3</th><td>1,045</td></tr>
   <tr><th>2</th><td>291</td></tr>
   <tr><th>1</th><td>301</td></tr>
   <tr><th rowspan='2'>제외 (3)</th><th>0</th><td>블라인드조치된 언행</td></tr>
