@@ -60,8 +60,8 @@
 | 서비스가 다 따로노는 느낌이네요..기대하고 간곳인데 기대이하네요 | 3 | 1 |
 | 배드 밑에 뭘 깔아놓으셨는지 울퉁불퉁해서 허리아파서 잠을 못잤네요 | 1 | 0 |
 | 개인 위생용품 자체가 없고, 냉방과 난방 둘 중 하나만 선택 가능합니다. | 2 | 0 | <br>
-<img src = https://github.com/seonggegun/hotelreview/assets/79897862/c815c74c-11d9-4540-b41d-501969e5fc01 width="400" height="300">
-<img src = https://github.com/seonggegun/hotelreview/assets/79897862/d59b1da7-9648-449b-ac13-8a2374564f4e width="400" height="300">
+<img src = https://github.com/seonggegun/hotelreview/assets/79897862/c815c74c-11d9-4540-b41d-501969e5fc01 width="400" height="200">
+<img src = https://github.com/seonggegun/hotelreview/assets/79897862/d59b1da7-9648-449b-ac13-8a2374564f4e width="400" height="200">
 
 
 1. 엑셀내에서 쓸모없는 Unnamed, hotel(호텔이름), date(리뷰남긴날짜),real_date(실제 날짜)를 제거
