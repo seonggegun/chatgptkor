@@ -58,7 +58,7 @@
 3. 각 전처리 후, 18글자 이하의 리뷰 갯수 비율 확인하는 함수<br>
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/1ffed558-2136-414c-b46d-0a27f2c398e1 width="500" height="100"> <br>
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/c9d559ae-df9e-4ce0-bddc-5eee8615a1fa width="300" height="100"> <br>
-18글자 이하 리뷰갯수: 13466, 비율 :58.749618254002876 임을 알수있다.<br>
+18글자 이하 리뷰갯수: 13466개, 비율 :58.749618254002876 임을 알수있다.<br>
 4. 특수 이모지 및 전처리 <br>
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/14fd5ea0-ce0c-43cd-abd2-cd84a0f06dec width="400" height="300">
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/30f99945-c79a-40e4-ab4a-3daf393b98a6 width="400" height="300"> <br>
