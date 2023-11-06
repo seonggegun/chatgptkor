@@ -38,7 +38,7 @@
   <tr><th>1</th><td>301</td></tr>
   <tr><th rowspan='2'>제외 (3)</th><th>0</th><td>블라인드조치된 언행</td></tr>
   <tr><th colspan='2'>계</th><td>22921</td></tr>
-</table>
+</table> <br>
 
 # 2. 데이터
 ## 2.1 데이터 소스
