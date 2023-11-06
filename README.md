@@ -33,10 +33,10 @@
   <tr><th></th><th>별점</th><th>건수</th></tr>
   <tr><th rowspan='2'>긍정 (21,281)</th><th>5</th><td>17,723</td></tr>
   <tr><th>4</th><td>3,558</td></tr>
-  <tr><th rowspan='2'>부정 (1637)</th><th>3</th><td>1,045</td></tr>
+  <tr><th rowspan='3'>부정 (1637)</th><th>3</th><td>1,045</td></tr>
   <tr><th>2</th><td>291</td></tr>
   <tr><th>1</th><td>301</td></tr>
-  <tr><th rowspan='2'>제외 (3)</th><th>0</th><td>블라인드조치된 언행</td></tr>
+  <tr><th rowspan='1'>제외 (3)</th><th>0</th><td>블라인드조치된 언행</td></tr>
   <tr><th colspan='2'>계</th><td>22921</td></tr>
 </table> <br>
 
