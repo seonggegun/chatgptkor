@@ -87,6 +87,8 @@ def del_percent():
 
 
 # 3. 재학습 결과
+<img src = https://github.com/seonggegun/hotelreview/assets/79897862/6c66f7c2-e2d4-4b69-8748-c811b36294dd>
+
 ## 3.1 개발 환경
 - pycharm, python, torch, pandas, ...
 -
