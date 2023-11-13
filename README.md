@@ -69,13 +69,13 @@
 3. 긍정데이터 부정데이터 비율맞추기
 4. 각 전처리 후, 18글자 이하의 리뷰 갯수 비율 확인하는 함수<br>
 
-'''
+```
 def del_percent():
     under_18 = df.loc[df['length'] <= 18, 'review'].count()
     all_count = df['review'].count()
     print('18글자 이하 리뷰갯수:', under_18)
     print(under_18 / all_count * 100)
-'''
+```
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/c9d559ae-df9e-4ce0-bddc-5eee8615a1fa width="300" height="100"> <br>
 18글자 이하 리뷰갯수: 13466개, 비율 :58.749618254002876 임을 알수있다.<br>
 5. 특수 이모지 및 전처리 <br>
