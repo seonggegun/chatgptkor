@@ -70,14 +70,17 @@
 1. 엑셀내에서 쓸모없는 Unnamed, hotel(호텔이름), date(리뷰남긴날짜),real_date(실제 날짜)를 제거
 2. 평점 1&tilde;3점은 부정(1), 4&tilde;5점은 긍정(0)으로 변환
 3. 긍정데이터 부정데이터 비율맞추기
-4. 각 전처리 후, 18글자 이하의 리뷰 갯수 비율 확인하는 함수<br>
+4. 각 전처리 후, 결측치 확인<br>
 
 ```
 def del_percent():
-    under_18 = df.loc[df['length'] <= 18, 'review'].count()
-    all_count = df['review'].count()
-    print('18글자 이하 리뷰갯수:', under_18)
-    print(under_18 / all_count * 100)
+    has_missing_values = df.isnull().values.any()
+print("결측치 확인 =", has_missing_values)
+# 결측치가 있으면 해당 행 제거
+if has_missing_values:
+    df = df.dropna(how='any')
+# 처리된 데이터 개수 출력
+print("처리된 데이터 개수 =", len(df))
 ```
 <br>
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/c9d559ae-df9e-4ce0-bddc-5eee8615a1fa width="300" height="100"> <br>
