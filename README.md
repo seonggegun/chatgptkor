@@ -83,7 +83,7 @@ if has_missing_values:
 print("처리된 데이터 개수 =", len(df))
 ```
 <br>
-<img src= https://github.com/seonggegun/hotelreview/assets/79897862/c9d559ae-df9e-4ce0-bddc-5eee8615a1fa width="300" height="100"> <br>
+<img src= https://github.com/seonggegun/hotelreview/assets/79897862/18557f41-718a-46a7-a1af-797b667809b9 width="300" height="100"> <br>
 18글자 이하 리뷰갯수: 13466개, 비율 :58.749618254002876 임을 알수있다.<br>
 5. 특수 이모지 및 전처리 <br>
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/14fd5ea0-ce0c-43cd-abd2-cd84a0f06dec width="400" height="300">
