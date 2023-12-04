@@ -3,7 +3,7 @@
 # KOELECTRA를 활용한 호텔리뷰 평점 감성 분석
 <img src = https://github.com/seonggegun/hotelreview/assets/79897862/3a2b34b4-1ba6-4325-a443-14907cbacdb2>
 [출처: bing create](https://www.bing.com/create)
-
+[출처: bing create](https://www.bing.com/create)
 
 # 1. 개요
 이 프로젝트의 목적은 KOELECTRA를 활용하여 호텔 리뷰의 긍부정을 예측하고자 한다.<br> 
