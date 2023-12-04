@@ -18,7 +18,7 @@
 
 |Unnamed: 0|hotel|star|reviews|date|real_date|length|
 | --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- |
+| 번호 | 호텔명 | 별점 | 리뷰 | 날짜 | 실시간 | 문장길이 |
 
 
 <img src = https://github.com/seonggegun/hotelreview/assets/79897862/2ece0c92-ec90-4da3-9117-bd7ec7a21da0> <br>
