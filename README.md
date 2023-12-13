@@ -1,6 +1,6 @@
 # hotelreviewkor
 
-# KOELECTRA를 활용한 호텔리뷰 평점 감성 분석
+<div align=center> # KOELECTRA를 활용한 호텔리뷰 평점 감성 분석 </div>
 <img src = https://github.com/seonggegun/hotelreview/assets/79897862/3a2b34b4-1ba6-4325-a443-14907cbacdb2><br>
 [출처: bing create](https://www.bing.com/create)
 
