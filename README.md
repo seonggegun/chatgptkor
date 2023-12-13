@@ -91,7 +91,32 @@ print("처리된 데이터 개수 =", len(df))
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/30f99945-c79a-40e4-ab4a-3daf393b98a6 width="400" height="300"> <br>
 좌쪽이 전처리 전 우쪽이 전처리 후 로 이모지가 제거됨을 알수있다.
 
+```
+# 모델 정의
+model = ElectraForSequenceClassification.from_pretrained('koelectra-small-v3-discriminator', num_labels=2)
 
+# Optimizer 및 Scheduler 설정
+optimizer = torch.optim.Adam(model.parameters(), lr=3e-04, eps=1e-06, betas=(0.9, 0.999))
+epoch = 3
+scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=0, num_training_steps=len(train_dataloader)*epoch)
+
+# 학습 및 검증 루프
+for e in range(0, epoch):
+    print(f'\n\nEpoch {e+1} of {epoch}')
+    print(f'** 학습 **')
+    t0 = time.time()
+    total_loss = 0
+    model.train()
+    for step, batch in enumerate(train_dataloader):
+        # 중략
+        
+    # 평가 루프
+    print('\n\n** 검증 **')
+    t0 = time.time()
+    model.eval()
+    eval_loss, eval_accuracy, eval_steps, eval_example = 0, 0, 0, 0
+    for batch in validation_dataloader:
+```
 
 # 3. 재학습 결과
 <img src = https://github.com/seonggegun/hotelreview/assets/79897862/6c66f7c2-e2d4-4b69-8748-c811b36294dd>
