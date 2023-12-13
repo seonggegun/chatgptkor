@@ -97,8 +97,7 @@ print("처리된 데이터 개수 =", len(df))
 <img src = https://github.com/seonggegun/hotelreview/assets/79897862/6c66f7c2-e2d4-4b69-8748-c811b36294dd>
 
 ## 3.1 개발 환경
-- pycharm, python, torch, pandas, ...
--
+- PyCharm      Python       Pytorch    NumPy    Pandas      Transformers Scikit-learn
 ## 3.2 KOELECTRA fine-tuning
 ## 3.3 학습 결과 그래프
 
