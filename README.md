@@ -6,7 +6,7 @@
 
 # 1. 개요
 이 프로젝트의 목적은 KOELECTRA를 활용하여 호텔 리뷰의 긍부정을 예측하고자 한다.<br> 
-호텔 리뷰는 호텔 예약 고객에게 중요한 정보를 제공하는 주요 소스로 사용된다. 이러한 리뷰를 통해 호텔의 품질, 서비스 및 시설에 대한 정보를 얻어 만족할만 예약이 가능할것이다. :earth_asia:
+호텔 리뷰는 호텔 예약 고객에게 중요한 정보를 제공하는 주요 소스로 사용된다. 이러한 리뷰를 통해 호텔의 품질, 서비스 및 시설에 대한 정보를 얻어 만족할만 예약이 가능할것이다.
 
 ## 1.1 문제 정의
 호텔 리뷰는 호텔 예약에 있어 가장 보편적으로 활용되는 정보의 창구이다.
@@ -120,9 +120,9 @@ for e in range(0, epoch):
 
 # 3. 재학습 결과
 <img src = https://github.com/seonggegun/hotelreview/assets/79897862/6c66f7c2-e2d4-4b69-8748-c811b36294dd>
-
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=red">
 ## 3.1 개발 환경
-- <img src="https://img.shields.io/badge/PyCharm -000000?style=for-the-badge&logo=PyCharm&logoColor=white">      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">      Pytorch    NumPy    Pandas      Transformers Scikit-learn
+- <img src="https://img.shields.io/badge/PyCharm -000000?style=for-the-badge&logo=PyCharm&logoColor=white">      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=red">    NumPy    Pandas      Transformers Scikit-learn
 ## 3.2 KOELECTRA fine-tuning
 ## 3.3 학습 결과 그래프
 
