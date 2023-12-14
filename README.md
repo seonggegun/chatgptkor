@@ -126,6 +126,51 @@ for e in range(0, epoch):
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=Dark Purple">      <img src="https://img.shields.io/badge/Transformers-007acc.svg"> <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=orange">
 ## 3.2 KOELECTRA fine-tuning
 22000건중 긍정이 너무 압도적으로 많아 부정 1000건 긍정 1000건만 추출하여 진행했다.
+
+** 2000건의 리뷰데이터**
+```
+step : 10, loss : 0.6343773603439331
+step : 20, loss : 0.5225526690483093
+step : 30, loss : 0.5343009829521179
+step : 40, loss : 0.5600367784500122
+평균 학습 오차(loss) : 0.5551066684722901
+학습에 걸린 시간 : 0:09:56
+
+
+ 검증 
+검증 정확도 : 0.7958916083916083
+검증에 걸린 시간 : 0:00:50
+
+
+Epoch 2 of 3
+ 학습 
+step : 10, loss : 0.3833129107952118
+step : 20, loss : 0.4971156418323517
+step : 30, loss : 0.34031224250793457
+step : 40, loss : 0.3076973855495453
+평균 학습 오차(loss) : 0.4056156978011131
+학습에 걸린 시간 : 0:09:50
+
+
+ 검증 
+검증 정확도 : 0.822333916083916
+검증에 걸린 시간 : 0:00:49
+
+
+Epoch 3 of 3
+ 학습 
+step : 10, loss : 0.1980857253074646
+step : 20, loss : 0.27155885100364685
+step : 30, loss : 0.12263354659080505
+step : 40, loss : 0.21949894726276398
+평균 학습 오차(loss) : 0.32681176245212556
+학습에 걸린 시간 : 0:09:41
+
+
+ 검증 
+검증 정확도 : 0.829763986013986
+검증에 걸린 시간 : 0:00:49
+```
 ## 3.3 학습 결과 그래프
 
 # 4. 배운점
