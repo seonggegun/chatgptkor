@@ -127,7 +127,21 @@ for e in range(0, epoch):
 ## 3.2 KOELECTRA fine-tuning
 22000건중 긍정이 너무 압도적으로 많아 부정 1000건 긍정 1000건만 추출하여 진행했다.
 
-** 2000건의 리뷰데이터**
+**2000건의 리뷰데이터**
+**재학습코드**
+```
+1 import pandas as pd
+2 import numpy as np
+3 from transformers import ElectraTokenizer, ElectraForSequenceClassification
+4 from transformers import get_linear_schedule_with_warmup, logging
+5 from sklearn.model_selection import train_test_split
+.....
+127 print("\n\n** 모델 저장 **")
+128 save_path = 'koelectra_small'
+129 model.save_pretrained(save_path + ".pt")
+130 print("\n** 끝 **")
+```
+**결과**
 ```
 step : 10, loss : 0.6343773603439331
 step : 20, loss : 0.5225526690483093
