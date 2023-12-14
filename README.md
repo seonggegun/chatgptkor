@@ -121,7 +121,7 @@ df['review'] = df['review'].apply(cleanText3)
 df['length'] = df['review'].apply(lambda x: len(x))
 del_percent()
 ```
-
+<br>
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/b6bb2e43-d6ac-4cd6-ae00-69d3d2dce665><br>
 좌쪽이 전처리 전 우쪽이 전처리 후 로 이모지가 제거됨을 알수있다.
 
