@@ -123,7 +123,8 @@ for e in range(0, epoch):
 
 ## 3.1 개발 환경
 - <img src="https://img.shields.io/badge/PyCharm -000000?style=for-the-badge&logo=PyCharm&logoColor=white">      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=red">   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=turquoise">    Pandas      Transformers Scikit-learn
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=red">   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=turquoise">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=Dark Purple">      (https://img.shields.io/badge/Transformers%2B-green) <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=orange">
 ## 3.2 KOELECTRA fine-tuning
 ## 3.3 학습 결과 그래프
 
