@@ -87,7 +87,7 @@ print("처리된 데이터 개수 =", len(df))
 <img src= https://github.com/seonggegun/hotelreview/assets/79897862/18557f41-718a-46a7-a1af-797b667809b9 width="300" height="100"> <br>
 2000개 데이터에 결측치는 없음을 알수있다.<br>
 5. 특수 이모지 및 전처리 <br>
-<img src= https://github.com/seonggegun/hotelreview/assets/79897862/b6bb2e43-d6ac-4cd6-ae00-69d3d2dce665 width=400 height=300><br>
+<img src= https://github.com/seonggegun/hotelreview/assets/79897862/b6bb2e43-d6ac-4cd6-ae00-69d3d2dce665><br>
 좌쪽이 전처리 전 우쪽이 전처리 후 로 이모지가 제거됨을 알수있다.
 
 ```
