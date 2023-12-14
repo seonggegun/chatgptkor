@@ -187,7 +187,7 @@ step : 40, loss : 0.21949894726276398
 ```
 2천건의 데이터로 정확도가 약 **82%** 정확도를 보여준다
 ## 3.3 학습 결과 그래프
-<img src = https://github.com/seonggegun/hotelreview/assets/79897862/d319f1bf-51fb-4864-aff0-f3f1535f4f19>
+<img src = https://github.com/seonggegun/hotelreview/assets/79897862/d319f1bf-51fb-4864-aff0-f3f1535f4f19><br>
 평균 학습 오차가 감소하고 검증 정확도는 상승하면서 모델이 학습 데이터와 검증 데이터 모두에서 양호한 성능을 보이고 있다. 
 
 이는 모델이 효과적으로 학습되고 있다는 표시로, 적절한 학습이 이루어지고 있음을 알수있다.
