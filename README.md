@@ -122,7 +122,7 @@ for e in range(0, epoch):
 <img src = https://github.com/seonggegun/hotelreview/assets/79897862/6c66f7c2-e2d4-4b69-8748-c811b36294dd>
 
 ## 3.1 개발 환경
-- PyCharm      Python       Pytorch    NumPy    Pandas      Transformers Scikit-learn
+- <img src="https://img.shields.io/badge/PyCharm -000000?style=for-the-badge&logo=PyCharm&logoColor=white">      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">      Pytorch    NumPy    Pandas      Transformers Scikit-learn
 ## 3.2 KOELECTRA fine-tuning
 ## 3.3 학습 결과 그래프
 
