@@ -125,6 +125,7 @@ for e in range(0, epoch):
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=red">   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=turquoise">
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=Dark Purple">      <img src="https://img.shields.io/badge/Transformers-007acc.svg"> <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=orange">
 ## 3.2 KOELECTRA fine-tuning
+22000건중 긍정이 너무 압도적으로 많아 부정 1000건 긍정 1000건만 추출하여 진행했다.
 ## 3.3 학습 결과 그래프
 
 # 4. 배운점
